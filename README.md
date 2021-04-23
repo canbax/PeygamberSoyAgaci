@@ -1,0 +1,1 @@
+Cytoscape.js için basit bir örnek veri gösterimi. Kur'an da adı geçen 25 peygamberin soy ağacını gösterir. Not: Kur'an da adı geçen bazı isimlerin (Meryem, Üzeyir, Lokman ...) peygamber olup olmadığı konusunda kesin bir görüş birliği yoktur
